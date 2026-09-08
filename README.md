@@ -1,6 +1,6 @@
 ## Hi, I'm Luka
 
-CS student @ Cal State East Bay, working on graphics, VR, and real-time systems.
+CS student @ Cal State East Bay working on graphics, VR, and real-time systems.
 
 ### Projects
 
