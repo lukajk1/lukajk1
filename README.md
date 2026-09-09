@@ -19,10 +19,8 @@ C# on top of PurrNet.
 
 ### Tools
 
-C#, C++, Python, JavaScript. Unity for real-time 3D, OpenGL and GLSL for graphics.
-Comfortable with networking, profiling, and the usual Git/CI setup.
+C#, C++, Python, JavaScript. Unity for real-time 3D, OpenGL,GLSL
 
 ### Links
 
-[lukakawashima.com](https://lukakawashima.com/) ·
-[linkedin.com/in/lukakawashima](https://www.linkedin.com/in/lukakawashima/)
+[linkedin.com/in/lukakawashima](https://www.linkedin.com/in/lukakawashima/) | [lukakawashima.com](https://lukakawashima.com/)
