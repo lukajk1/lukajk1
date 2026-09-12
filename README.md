@@ -5,7 +5,7 @@ CS student @ Cal State East Bay working on AI, XR, gamedev, graphics
 ### Projects
 
 **[4D Chess](https://play4dchess.vercel.app/)**: chess on a 4<sup>4</sup> and 8<sup>4</sup> hypercube,
-rendered with true 4D→3D perspective projection. JavaScript with Three.js.
+rendered with true 4D->3D perspective projection. JavaScript with Three.js.
 [source](https://github.com/lukajk1/4D-chess) · [play it](https://play4dchess.vercel.app/)
 
 **[ARKVAIN](https://store.steampowered.com/app/4390190/ARKVAIN/)**: a competitive
