@@ -18,4 +18,4 @@ C# on top of PurrNet.
 
 C#, C++, Python, JavaScript. Unity for real-time 3D, OpenGL,GLSL
 
-[linkedin.com/in/lukakawashima](https://www.linkedin.com/in/lukakawashima/) | [lukakawashima.com](https://lukakawashima.com/)
+[linkedin.com/in/lukakawashima](https://www.linkedin.com/in/lukakawashima/) | [lukakawashima.com](https://lukakawashima.com/) | <a href="./resume.pdf">Resume</a>
