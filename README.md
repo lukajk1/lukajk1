@@ -12,7 +12,7 @@ rendered with true 4D->3D perspective projection. JavaScript with Three.js.
 arena shooter built in Unity, currently in development for Steam release. Uses client-side prediction with server rollback,
 authoritative hit validation, and P2P lobbies over the Steamworks API. Written in
 C# on top of PurrNet.
-[source](https://github.com/lukajk1/afps-public) · [trailer](https://www.youtube.com/watch?v=W1TRvJojrtw)
+[Steam page](https://store.steampowered.com/app/4390190/ARKVAIN/) 
 
 ### Tools
 
