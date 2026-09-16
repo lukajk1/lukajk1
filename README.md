@@ -1,6 +1,6 @@
 ## Hi, I'm Luka
 
-CS student @ Cal State East Bay working on applied ai, XR, gamedev, and graphics
+CS student @ Cal State East Bay working on applied AI, XR, gamedev, and graphics
 
 ### Projects
 
