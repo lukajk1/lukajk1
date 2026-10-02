@@ -1,4 +1,4 @@
-## Hi, I'm Luka
+## Luka Kawashima
 
 CS student @ Cal State East Bay working on applied AI, XR and gamedev
 
